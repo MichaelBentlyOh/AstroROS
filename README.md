@@ -27,6 +27,7 @@ roslaunch reaction_wheel_main gazebo.launch
 Then, gazebo will open and there are two objects in gazebo world.
 6. give command topics to tentacle satellite.
 For demo, I use "rqt".
+
 (2024.07.02) This repository doesn't have tentacle command publisher. After update, command publisher will be added in this repo.
 
 # Update Log
