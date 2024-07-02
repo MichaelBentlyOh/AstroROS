@@ -25,6 +25,7 @@ source devel/setup.bash
 roslaunch reaction_wheel_main gazebo.launch
 ```
 Then, gazebo will open and there are two objects in gazebo world.
+
 6. give command topics to tentacle satellite.
 For demo, I use "rqt".
 
