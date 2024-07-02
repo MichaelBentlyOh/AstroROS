@@ -5,7 +5,7 @@ This repository is for AstroROS : ADR simulator for On-Orbit Servicing.
 
 This repo is a fork repo from https://github.com/uscl/AstroROS .
 
-Every changes (even thet are a trivial) will be applied in this repo and revised version will be uploaded in original repository.
+Every changes (even they are trivial) will be applied in this repo and revised version will be uploaded in original repository.
 # How to use AstroROS
 1. Install ROS noetic(ubuntu 20.04)
 2. Clone "reaction_wheel_tentacle_ws" (do not care about "orbit_simulator_matlab")
