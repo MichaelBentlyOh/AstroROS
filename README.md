@@ -35,6 +35,8 @@ For demo, I use "rqt".
 2024.07.01 : fork from https://github.com/uscl/AstroROS
 
 2024.07.02 : update readme.md
+
+2024.09.18 : update readme.md => add new plan
 # Update plan
 <1> Upload orbit perturbation plugin by gravity gradient (2024.10.31)
 
