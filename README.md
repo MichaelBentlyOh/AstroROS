@@ -36,8 +36,10 @@ For demo, I use "rqt".
 
 2024.07.02 : update readme.md
 # Update plan
-<1> Implementation of orbit simulator in C++ with Eigen library(2024.10.31)
+<1> Upload orbit perturbation plugin by gravity gradient (2024.10.31)
 
-<2> Migration from ROS1 to ROS2(2024.12.31)
+<2> Implementation of orbit simulator in C++ with Eigen library(2024.11.31)
 
-<3> Application into SpaceROS(https://github.com/space-ros) (2025.??.??)
+<3> Migration from ROS1 to ROS2(2024.12.31)
+
+<4> Application into SpaceROS(https://github.com/space-ros) (2025.??.??)
